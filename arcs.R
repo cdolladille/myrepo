@@ -16,6 +16,7 @@ arcs <- function(
   if(!is.data.table(data)){
     data <- as.data.table(data)
   }
+  # now i am fixing the issue here
   
   # syms
 
