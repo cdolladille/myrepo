@@ -1,3 +1,5 @@
+# say i am working on something.
+
 # transformation to absolute and relative chances of success
 # this function is meant to create contrasts (absolute, relative) of meta-regression of single proportion. See pierre_ollitrault/af_ablation/todo.docx for more details
 
