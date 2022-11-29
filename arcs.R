@@ -6,6 +6,8 @@
 # this function is meant to create contrasts (absolute, relative) of meta-regression of single proportion. See pierre_ollitrault/af_ablation/todo.docx for more details
 
 # this is the place to the new feature
+# a bit of extra work
+# and its done!
 
 arcs <- function(
   data,
